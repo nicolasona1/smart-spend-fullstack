@@ -17,6 +17,7 @@ SmartSpend is a full-stack credit card budgeting and spending tracker built to h
 ## Tech Stack
 
 ### Frontend
+- JavaScript
 - React
 - Vite
 - React Router
